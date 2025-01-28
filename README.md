@@ -18,6 +18,4 @@ Inspired by the biological axon, which transmits signals between neurons, Axon c
 - **Python**
 - Libraries: `speech_recognition`, `pyttsx3`, `os`, `requests` (and more)
 - Modular structure for easy customization.
-
-### Visit Link for code : https://github.com/coder-chitra/Axon
 ---
